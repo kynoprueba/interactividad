@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="416acbbb-8559-4434-a9b0-23ddbf8d5d9b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-    </list>
+    <list default="true" id="416acbbb-8559-4434-a9b0-23ddbf8d5d9b" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -31,7 +28,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="422">
+            <state relative-caret-position="13948">
               <caret line="634" column="54" lean-forward="false" selection-start-line="634" selection-start-column="54" selection-end-line="634" selection-end-column="54" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#1;n#li#2;n#ul#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -286,15 +283,15 @@
       <workItem from="1551398947519" duration="1971000" />
       <workItem from="1551646062731" duration="588000" />
       <workItem from="1551670507966" duration="3514000" />
-      <workItem from="1551705900852" duration="812000" />
+      <workItem from="1551705900852" duration="1095000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21630000" />
+    <option name="totallyTimeSpent" value="21913000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="95" y="139" width="1654" height="908" extended-state="1" />
+    <frame x="95" y="139" width="1654" height="908" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08049536" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -697,7 +694,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
+        <state relative-caret-position="13948">
           <caret line="634" column="54" lean-forward="false" selection-start-line="634" selection-start-column="54" selection-end-line="634" selection-end-column="54" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#1;n#li#2;n#ul#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
